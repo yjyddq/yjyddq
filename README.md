@@ -11,7 +11,7 @@
   [Code](https://github.com/yjyddq/DARE) · ![GitHub Repo stars](https://img.shields.io/github/stars/yjyddq/DARE?style=social)
 
 - [NeurIPS 2025] **RiOSWorld**: Benchmarking the risk of multimodal computer-use agents.  
-  [Project](https://yjyddq.github.io/) · [Code](https://github.com/yjyddq/RiOSWorld) · ![GitHub Repo stars](https://img.shields.io/github/stars/yjyddq/RiOSWorld?style=social)
+  [Project](https://yjyddq.github.io/RiOSWorld.github.io/) · [Code](https://github.com/yjyddq/RiOSWorld) · ![GitHub Repo stars](https://img.shields.io/github/stars/yjyddq/RiOSWorld?style=social)
 
 - [ICLR 2026] Your agent may misevolve: Emergent risks in self-evolving llm agents.  
   [Code](https://github.com/ShaoShuai0605/Misevolution) · ![GitHub Repo stars](https://img.shields.io/github/stars/ShaoShuai0605/Misevolution?style=social)
